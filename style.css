@@ -123,11 +123,11 @@ h1 {
   gap: 20px;
 }
 .weather-cards .card {
-  color: #fff;
+  color: black;
   padding: 18px 16px;
   list-style: none;
   width: calc(100% / 5);
-  background: #6C757D;
+  background: #E5C4AE;
   border-radius: 5px;
 }
 .weather-cards .card h3 {
